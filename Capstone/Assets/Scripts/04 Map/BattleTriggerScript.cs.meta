@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 891b2733b6370764aac64a87fa4f5558
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - battleStartUI: {instanceID: 0}
+  - battleTimer: {instanceID: 0}
+  - fade: {instanceID: 0}
+  - timer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
